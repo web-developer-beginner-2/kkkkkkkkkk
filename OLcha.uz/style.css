@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    background-color: #da002b;  
+    height: 50px;
+}
+
+.credit {
+    width: 110px;
+    height: 25px;
+    background-color: white;
+    color: #da002b; 
+    margin-left: 35px;
+    margin-top: 13px;
+    margin-right: 10px;
+    border-radius: 8px;
+    border: none;
+}
+
+
+.sale {
+    background-color: #da002b;
+    color: #fff;
+    white-space: nowrap;
+    border: 1px solid white;
+    height: 25px;
+    margin-top: 13px;
+    border-radius: 8px;
+}
+
+.rozigrish {
+    width: 110px;
+    height: 25px;
+    background-color: white;
+    color: #da002b; 
+    margin-left: 15px;
+    margin-top: 13px;
+    margin-right: 10px;
+    border-radius: 8px;
+    border: none;
+}
+
+.map {
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.number {
+    color: #fff;
+    font-weight: 900;
+    margin-top: 15px;
+    font-size: 18px;
+    margin-left: 250px;
+}
+
+
+.selling  {
+    background-color: #da002b;
+    color: #fff;
+    white-space: nowrap;
+    border: 1px solid white;
+    height: 30px;
+    margin-top: 11px;
+    margin-left: 15px;
+    border-radius: 8px;
+    width: 160px;
+}
+
+
+.uzb {
+    margin-top: 15px;
+    color: gray;
+    margin-left: 35px;
+}
+
+.oz {
+    margin-top: 15px;
+    color: gray;
+    margin-left: 15px;  
+}
+
+.rus {
+    margin-top: 15px;
+    color: #fff;
+    margin-left: 15px;
+}
+
+
+.logo {
+    margin-top: 30px;
+    margin-left: 35px;
+}
+
+
+.katalog {
+    background-color: white;
+    width: 120px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    height: 40px;
+    margin-left: 15px;
+    position: relative;
+    bottom: 10px;
+}
